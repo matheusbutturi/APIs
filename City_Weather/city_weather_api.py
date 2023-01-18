@@ -1,7 +1,7 @@
 import requests
 import json
 
-# Asks the city name to get the weather
+# Asks the city name
 cidade = input('Escreva sua cidade: ')
 
 # Make a request in format GET
