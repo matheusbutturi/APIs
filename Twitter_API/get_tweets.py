@@ -5,11 +5,8 @@ import urllib.parse
 # Access parameters into Twitter
 api_key = 'xxxxxxxxx'
 api_key_secret = 'xxxxxxxxx'
-bearer_token = 'xxxxxxxx'
 access_token = 'xxxxxxxxxxx'
 access_token_secret = 'xxxxxxxxxxx'
-client_id = 'xxxxxxxxxxxxx'
-client_secret = 'xxxxxxxxxx'
 
 # Authentication using the accessing parameters
 consumer = oauth2.Consumer(api_key, api_key_secret)
