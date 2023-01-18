@@ -3,13 +3,13 @@ import json
 import urllib.parse
 
 # Access parameters into Twitter
-api_key = ['IH53HhQa7m5p3IAHfO6XDy5Cd']()hide
-api_key_secret = 'y4LllRuAYN1UUI0tQGz5iAdpK3Hufyat05XDjEFvH3LwPC5imV'
-bearer_token = 'AAAAAAAAAAAAAAAAAAAAAKAylQEAAAAAYz%2By2svTozoFX3Q%2F68yMbWtefcg%3Djy7pqr7Xz56EC0yR5pFvG0AIJxOlP6dqbK9WPKUjzAxGtvLBjU'
-access_token = '1615807020577218560-Iu71vg1Tdnf6TLMz2YJAvdzwRVpGCf'
-access_token_secret = 'iUR7PpQCP4sgx2mHMNp3W1DZX81nPjRGWPwCx0bRPKLRQ'
-client_id = 'azZ3YmMxWXlCN1c4NUpPdENHQjA6MTpjaQ'
-client_secret = 'MY-SMlynR1MGNMwi_G-nNHhopVzPnwPKwaPTyYtZKxaNfWlqnI'
+api_key = 'xxxxxxxxx'
+api_key_secret = 'xxxxxxxxx'
+bearer_token = 'xxxxxxxx'
+access_token = 'xxxxxxxxxxx'
+access_token_secret = 'xxxxxxxxxxx'
+client_id = 'xxxxxxxxxxxxx'
+client_secret = 'xxxxxxxxxx'
 
 # Authentication using the accessing parameters
 consumer = oauth2.Consumer(api_key, api_key_secret)
